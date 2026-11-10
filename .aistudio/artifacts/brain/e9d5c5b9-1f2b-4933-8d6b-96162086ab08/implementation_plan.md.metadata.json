@@ -1,0 +1,6 @@
+{
+  "summary":  "Plan to update the accuracy calculation logic across all views and exports:\n- When a player has 0 attempts, their accuracy is explicitly 0% (instead of 100%).\n- Updated across Host Leaderboard Table (0%), Player Debrief Screen (0%), client-side CSV export (0.0%), and server-side CSV export (0.0%).",
+  "updatedAt":  "2026-11-10T04:04:52.260663001Z",
+  "requestFeedback":  true,
+  "userFacing":  true
+}

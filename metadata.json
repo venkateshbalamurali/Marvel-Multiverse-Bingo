@@ -1,0 +1,6 @@
+{
+  "name": "Marvel Multiverse Tech BINGO",
+  "description": "A real-time multiplayer 3x5 Marvel Multiverse Tech BINGO tactical HUD application with Stark Industries styling, speech synthesis, live score engine, and synchronized host-client arena.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
